@@ -13,10 +13,10 @@
   "license": "ISC",
   "type": "commonjs",
   "engines": {
-    "node": ">=22.19.0"
+    "node": "22.x"
   },
   "dependencies": {
-    "@apidevtools/swagger-parser": "^13.1.0",
+    "@apidevtools/swagger-parser": "10.1.0",
     "ajv": "^8.20.0",
     "cors": "^2.8.6",
     "dotenv": "^18.0.8",
